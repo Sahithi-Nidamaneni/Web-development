@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Grouped list</title>
+</head>
+<body>
+<ul>
+<li>Red</li>
+<li>Orangr</li>
+<li>Black</li>
+<li>Brown</li>
+<ul>
+</body>
+</html>
